@@ -2,11 +2,11 @@
 
 Install following:
 
-pip install selenium
+-> pip install selenium
 
-pip install bs4
+-> pip install bs4
 
-pip install pandas
+-> pip install pandas
 
 
 
